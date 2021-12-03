@@ -8,7 +8,7 @@
 	<packaging>jar</packaging>
 
 	<name>maven-stanalone-application</name>
-	<url>hhtp://example.com</url>
+	<url>http://example.com</url>
 	
 	<properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -17,7 +17,7 @@
   </properties>
 
 	<organization>
-		<name> abc tech</name>
+		<name>Mithun Technologies</name>
 		<url>http://example.com/</url>
 	</organization>
 	
@@ -37,14 +37,6 @@
 	</dependencies>
 
 	
-	
-
-	<issueManagement>
-		<system>GitHub</system>
-		<url>https:githu.com/issues</url>
-	</issueManagement>
-
-	-->
 	<build>
 	  <plugins>
 	    <plugin>
